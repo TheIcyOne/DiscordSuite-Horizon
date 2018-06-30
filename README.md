@@ -1,1 +1,1 @@
-# DiscordSuite-Horizon
+# DiscordSuite: Horizon Edition
